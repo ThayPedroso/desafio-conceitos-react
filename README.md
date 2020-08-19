@@ -2,7 +2,7 @@
 
 ### Aplicação para armazenar repositórios Github do portifólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso, permitir que os repositórios recebam "likes"
 
-![](/promo/desafioReact.png)
+![image](/promo/desafioReact.PNG)
 
 ### Pré-requisitos
 
